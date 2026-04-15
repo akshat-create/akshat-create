@@ -20,7 +20,7 @@ Right now, I am focused on:
 [![Email](https://img.shields.io/badge/Email-akshatpandey9198%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatpandey9198@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatpandey8299/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-akshat__heyy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshat_heyy/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-1f7a8c?style=for-the-badge)](https://codolio.com/profile/@akshatpandey)
+[![Codolio](https://img.shields.io/badge/Codolio-akshatpandey-0f172a?style=for-the-badge&logoColor=white)](https://codolio.com/profile/@akshatpandey)
 
 ## Tech Stack
 
