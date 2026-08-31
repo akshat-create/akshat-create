@@ -24,7 +24,7 @@
   <tr>
     <td width="65%">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About Me</h2>
-      <p>I'm a 2nd-year B.Tech student in Computer Science and Engineering, specializing in <b>Data Science</b> at Maharana Pratap Engineering College. I'm deeply passionate about turning complex problems into clean, efficient code and exploring the exciting intersection of software development and artificial intelligence.</p>
+      <p>I'm a final-year B.Tech student in Computer Science and Engineering, specializing in <b>Data Science</b> at Maharana Pratap Engineering College. I'm deeply passionate about turning complex problems into clean, efficient code and exploring the exciting intersection of software development and artificial intelligence.</p>
       <br>
       <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" /> <b>Currently learning:</b> Advanced DSA, Machine Learning, and Full Stack Web Development.</p>
       <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> <b>Goals:</b> Building practical AI-driven projects, and preparing for software and data engineering opportunities.</p>
