@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 2nd-year B.Tech student in Computer Science and Engineering, specializing in **Data Science** at Maharana Pratap Engineering College. I enjoy turning complex problems into clean, efficient code and am constantly exploring the intersection of software development and artificial intelligence. 
+I am a final-year B.Tech student in Computer Science and Engineering, specializing in **Data Science** at Maharana Pratap Engineering College. I enjoy turning complex problems into clean, efficient code and am constantly exploring the intersection of software development and artificial intelligence. 
 
 Currently, I am focused on strengthening my Data Structures and Algorithms (DSA) foundations, building practical AI-driven projects, and preparing for software and data engineering opportunities.
 
