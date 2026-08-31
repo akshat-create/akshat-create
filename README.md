@@ -102,7 +102,7 @@
 
 <div align="center">
   <a href="https://github.com/akshat-create">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshat-create&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshat-create&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/akshat-create">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-create&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -111,7 +111,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/akshat-create">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-create&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshat-create&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
   </a>
 </div>
 
